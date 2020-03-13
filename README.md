@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+    It has built in routing and json trasnposing abilities
+
 - [ ] Describe Middleware?
+
+    it's a function or library that supports added functionality for express 
 
 - [ ] Describe a Resource?
 
+    Any piece of data that is accessible to the client and application layers through the server. 
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+    A response status code and message/element/log can be incorporated into every response method to inform the client how the call was handled. 
+
 - [ ] How can we partition our application into sub-applications?
+
+    By using express Router and structuring out application with it. 
 
 ## Minimum Viable Product
 
